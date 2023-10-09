@@ -12,9 +12,9 @@ Features:
 •	Live Timestamp in Seek Bar: Experience accurate tracking of the progress in your music. The seek bar displays a live timestamp, ensuring you never miss a beat.
 •	Adjust Music with Seekbar: Easily navigate through tracks using the seek bar. Drag the seek bar to adjust your music and find the perfect listening point.
 
-Contributing
+Contributing:
 If you want to contribute to this project and make it even better, feel free to fork the repository and submit a pull request. Your contributions are always welcome!
 
-Issues
+Issues:
 If you encounter any issues with the application or have suggestions for improvements, please open an issue on this repository. We appreciate your feedback!
 
